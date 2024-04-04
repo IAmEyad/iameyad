@@ -6,11 +6,9 @@
 
 
 ## About Me
- - :triumph: Proponent of Open Source Software
  - :weight_lifting: Powerlifter
  - :computer: Tech Enthusist
-
-
+ - 🎮 Gamer
 
 ## What am I working on?
 #### Follow my [Blog](https://iameyad.dev") to keep up-to-date on my progress!
