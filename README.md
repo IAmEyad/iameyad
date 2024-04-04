@@ -11,7 +11,7 @@
  - 🎮 Gamer
 
 ## What am I working on?
-#### Follow my [Blog](https://iameyad.dev") to keep up-to-date on my progress!
+#### Follow my [Blog](https://iameyad.dev) to keep up-to-date on my progress!
 <p>There isn't much here yet, but keep checking back, I'll be sure to update as time goes on.</p>
 
 - Learning Golang
