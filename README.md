@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I am Eyad</h1>
-<p align="center">DevOps engineer with a passion for automating the boring stuff so we can focus on what's fun. 
+<p align="center">DevOps engineer with a passion for automation, observability, and security. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=iameyad&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"></img>
 </p>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=python,bash,django,docker,jenkins,kubernetes,vim,linux,aws"></img></p>
