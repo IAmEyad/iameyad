@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Eyad</h1>
 <p align="center">I like trying to make things.</p>
 
-| ![Stats](https://github-readme-stats.vercel.app/api/?username=iameyad&show_icons=true&count_private=true&theme=dracula&hide_border=true) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=iameyad)|
+| ![Stats](https://github-readme-stats.vercel.app/api/?username=iameyad&show_icons=true&count_private=true&theme=dracula&hide_border=true) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=iameyad&theme=dracula)|
 | --------------------------------- | --------------------------------- |
 <p align="center"><img src="https://skillicons.dev/icons?i=python,bash,django,docker,jenkins,kubernetes,vim,linux,aws"></img></p>
 
