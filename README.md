@@ -7,3 +7,7 @@
  - :weight_lifting: Powerlifter
  - :computer: Tech Enthusist
  - 🎮 Gamer
+
+## What am I working on?
+- Learning Golang
+- Casual Gamedev
