@@ -4,11 +4,7 @@
 <p align="center">I like trying to make things.</p>
 
 
-## About Me
+<h2 align="center">About Me!</h2>
  - :weight_lifting: Powerlifter
  - :computer: Tech Enthusist
  - 🎮 Gamer
-
-## What am I working on?
-- Learning Golang
-- Casual Gamedev
