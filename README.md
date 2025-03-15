@@ -8,5 +8,5 @@
                  ||     ||
 
 ```
-## New Projects only on SourceHut:
+## Slowly moving over to SourceHut:
 https://git.sr.ht/~iameyad/
